@@ -36,7 +36,3 @@ services:
   packages:
   - name: WmPublic
     version: 11.1.0.0.2105
-- serviceName: pub.alert:emit
-  packages:
-  - name: WmPublic
-    version: 11.1.0.0.2105
